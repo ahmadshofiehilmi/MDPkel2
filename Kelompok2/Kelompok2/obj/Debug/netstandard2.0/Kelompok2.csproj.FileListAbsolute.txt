@@ -1,0 +1,12 @@
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\bin\Debug\netstandard2.0\Kelompok2.deps.json
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\bin\Debug\netstandard2.0\Kelompok2.dll
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\bin\Debug\netstandard2.0\Kelompok2.pdb
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.App.xaml.g.cs
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.LoginPage.xaml.g.cs
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.MainPage.xaml.g.cs
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.SignUpPage.xaml.g.cs
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.dll
+C:\Users\ahmad\source\repos\Kelompok2\Kelompok2\Kelompok2\obj\Debug\netstandard2.0\Kelompok2.pdb
